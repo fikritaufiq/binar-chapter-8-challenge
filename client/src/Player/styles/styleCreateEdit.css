@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+
+* {
+    font-family: "Arial", sans-serif;
+    color: white;
+}
+
+.background {
+    background-image: url('./images/the-games-bg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h2, button, strong {
+    font-family: "Open Sans", sans-serif !important;
+}
+
+h2 {
+    color: #ffc107 !important;
+}
+
+.col-form-label {
+    font-size: large;
+}
